@@ -1,0 +1,15 @@
+2013-02-19 19:03:35   Welcome!
+2013-02-19 19:04:36   Success loading filepath.
+2013-02-19 19:04:40   Current position: (x,y,value) = (165,258,27086).
+2013-02-19 19:04:41   Spot number 17 at position (163,253) has been selected.
+2013-02-19 19:04:58   Current position: (x,y,value) = (125,326,33208).
+2013-02-19 19:04:59   Spot number 14 at position (120,325) has been selected.
+2013-02-19 19:05:00   Spot number 17 at position (163,253) has been selected.
+2013-02-19 19:05:21   Spot number 2 at position (163,253) has been deselected.
+2013-02-19 19:05:25   Spot number 1 at position (120,325) has been deselected.
+2013-02-19 19:05:27   No cell has been seleted.
+2013-02-19 19:05:29   Spot number 2 at position (163,253) has been selected.
+2013-02-19 19:05:33   Spot number 1 at position (120,325) has been selected.
+2013-02-19 19:05:51   Track number 1 with starting position (120,325) has been saved.
+2013-02-19 19:05:51   Track number 2 with starting position (163,253) has been saved.
+2013-02-19 19:06:44   Y position is out of range.

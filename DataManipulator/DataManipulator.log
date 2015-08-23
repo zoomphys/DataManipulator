@@ -1,0 +1,96 @@
+2015-01-28 16:29:25   Welcome!
+2015-01-28 16:29:26   Set variable guivarsFileName specified in private\DataManipulator_vars.xlsx to: 'private/DataManipulator_guivars.mat'
+2015-01-28 16:29:26   Set variable varVectorsFileName specified in private\DataManipulator_vars.xlsx to: 'private/DataManipulator_varVectors.xlsx'
+2015-01-28 16:29:26   Set variable filedir specified in private\DataManipulator_vars.xlsx to: '.'
+2015-01-28 16:29:26   Set variable prefix specified in private\DataManipulator_vars.xlsx to: ''
+2015-01-28 16:29:26   Set variable isLog specified in private\DataManipulator_vars.xlsx to: 1
+2015-01-28 16:29:26   Set variable isAutoXData specified in private\DataManipulator_vars.xlsx to: 0
+2015-01-28 16:29:26   Set variable isBarScale specified in private\DataManipulator_vars.xlsx to: 0
+2015-01-28 16:29:26   Set variable xLabels specified in private\DataManipulator_vars.xlsx to: {'frame'}
+2015-01-28 16:29:26   Set variable iXLabel specified in private\DataManipulator_vars.xlsx to: 1
+2015-01-28 16:29:26   Set variable yLabels specified in private\DataManipulator_vars.xlsx to: {'frame'}
+2015-01-28 16:29:26   Set variable iYLabel specified in private\DataManipulator_vars.xlsx to: 1
+2015-01-28 16:29:26   Set variable filepath specified in private\DataManipulator_vars.xlsx to: ''
+2015-01-28 16:29:26   Set variable allData specified in private\DataManipulator_vars.xlsx to: {}
+2015-01-28 16:29:26   Set variable maxPixelValue specified in private\DataManipulator_vars.xlsx to: 65535
+2015-01-28 16:29:26   Set variable subGUIName specified in private\DataManipulator_vars.xlsx to: 'PlotSub'
+2015-01-28 16:29:26   Set variable subGUIAxesName specified in private\DataManipulator_vars.xlsx to: 'plot_axes'
+2015-01-28 16:29:26   Set variable savedVars specified in private/DataManipulator_varVectors.xlsx to:
+2015-01-28 16:29:26   'filepath','prefix','suffix','extension','xScale','yScale','xUnit','yUnit','xLabels','yLabels','framesShifted','plotOptions','isLog','iXLabel','iYLabel','isShiftFrame','isSeries','iColor','leftTable'
+2015-01-28 16:29:26   Set variable guiName specified in private/DataManipulator_varVectors.xlsx to:
+2015-01-28 16:29:26   'filepath_edit','prefix_edit','suffix_edit','extension_edit','xScale_edit','yScale_edit','xUnit_edit','yUnit_edit','xLabel_popupmenu','yLabel_popupmenu','framesShifted_edit','plotOptions_edit','isLog_checkbox','xLabel_popupmenu','yLabel_popupmenu','isShiftFrame_checkbox','isSeries_checkbox','color_popupmenu','left_uitable'
+2015-01-28 16:29:26   Set variable guiType specified in private/DataManipulator_varVectors.xlsx to:
+2015-01-28 16:29:26   'String','String','String','String','String','String','String','String','String','String','String','String','Value','Value','Value','Value','Value','Value','Data'
+2015-01-28 16:29:26   Set variable savedFields specified in private/DataManipulator_varVectors.xlsx to:
+2015-01-28 16:29:26   'frame','x','y','frame','yfp','cfp','ratio','rawy','rawc','rawr','area','round'
+2015-01-28 16:29:26   Update variable filepath from guiVars.
+2015-01-28 16:29:26   Update variable prefix from guiVars.
+2015-01-28 16:29:26   Update variable suffix from guiVars.
+2015-01-28 16:29:26   Update variable extension from guiVars.
+2015-01-28 16:29:26   Update variable xScale from guiVars.
+2015-01-28 16:29:26   Update variable yScale from guiVars.
+2015-01-28 16:29:26   Update variable xUnit from guiVars.
+2015-01-28 16:29:26   Update variable yUnit from guiVars.
+2015-01-28 16:29:26   Update variable xLabels from guiVars.
+2015-01-28 16:29:26   Update variable yLabels from guiVars.
+2015-01-28 16:29:26   Update variable framesShifted from guiVars.
+2015-01-28 16:29:26   Update variable plotOptions from guiVars.
+2015-01-28 16:29:26   Update variable isLog from guiVars.
+2015-01-28 16:29:26   Update variable iXLabel from guiVars.
+2015-01-28 16:29:26   Update variable iYLabel from guiVars.
+2015-01-28 16:29:26   Update variable isShiftFrame from guiVars.
+2015-01-28 16:29:26   Update variable isSeries from guiVars.
+2015-01-28 16:29:26   Update variable iColor from guiVars.
+2015-01-28 16:29:26   Update variable leftTable from guiVars.
+2015-01-28 16:29:26   Cannot find plot_axes
+2015-01-28 16:29:26   Welcome!
+2015-01-28 16:29:29   Goodbye!
+2015-01-28 16:29:29   Directory does not exist. Log is saved to the program directory.
+2015-08-23 14:55:23   Welcome!
+2015-08-23 14:55:24   Set variable guivarsFileName specified in private\DataManipulator_vars.xlsx to: 'private/DataManipulator_guivars.mat'
+2015-08-23 14:55:24   Set variable varVectorsFileName specified in private\DataManipulator_vars.xlsx to: 'private/DataManipulator_varVectors.xlsx'
+2015-08-23 14:55:24   Set variable filedir specified in private\DataManipulator_vars.xlsx to: '.'
+2015-08-23 14:55:24   Set variable prefix specified in private\DataManipulator_vars.xlsx to: ''
+2015-08-23 14:55:24   Set variable isLog specified in private\DataManipulator_vars.xlsx to: 1
+2015-08-23 14:55:24   Set variable isAutoXData specified in private\DataManipulator_vars.xlsx to: 0
+2015-08-23 14:55:24   Set variable isBarScale specified in private\DataManipulator_vars.xlsx to: 0
+2015-08-23 14:55:24   Set variable xLabels specified in private\DataManipulator_vars.xlsx to: {'frame'}
+2015-08-23 14:55:24   Set variable iXLabel specified in private\DataManipulator_vars.xlsx to: 1
+2015-08-23 14:55:24   Set variable yLabels specified in private\DataManipulator_vars.xlsx to: {'frame'}
+2015-08-23 14:55:24   Set variable iYLabel specified in private\DataManipulator_vars.xlsx to: 1
+2015-08-23 14:55:24   Set variable filepath specified in private\DataManipulator_vars.xlsx to: ''
+2015-08-23 14:55:24   Set variable allData specified in private\DataManipulator_vars.xlsx to: {}
+2015-08-23 14:55:24   Set variable maxPixelValue specified in private\DataManipulator_vars.xlsx to: 65535
+2015-08-23 14:55:24   Set variable subGUIName specified in private\DataManipulator_vars.xlsx to: 'PlotSub'
+2015-08-23 14:55:24   Set variable subGUIAxesName specified in private\DataManipulator_vars.xlsx to: 'plot_axes'
+2015-08-23 14:55:25   Set variable savedVars specified in private/DataManipulator_varVectors.xlsx to:
+2015-08-23 14:55:25   'filepath','prefix','suffix','extension','xScale','yScale','xUnit','yUnit','xLabels','yLabels','framesShifted','plotOptions','isLog','iXLabel','iYLabel','isShiftFrame','isSeries','iColor','leftTable'
+2015-08-23 14:55:25   Set variable guiName specified in private/DataManipulator_varVectors.xlsx to:
+2015-08-23 14:55:25   'filepath_edit','prefix_edit','suffix_edit','extension_edit','xScale_edit','yScale_edit','xUnit_edit','yUnit_edit','xLabel_popupmenu','yLabel_popupmenu','framesShifted_edit','plotOptions_edit','isLog_checkbox','xLabel_popupmenu','yLabel_popupmenu','isShiftFrame_checkbox','isSeries_checkbox','color_popupmenu','left_uitable'
+2015-08-23 14:55:25   Set variable guiType specified in private/DataManipulator_varVectors.xlsx to:
+2015-08-23 14:55:25   'String','String','String','String','String','String','String','String','String','String','String','String','Value','Value','Value','Value','Value','Value','Data'
+2015-08-23 14:55:25   Set variable savedFields specified in private/DataManipulator_varVectors.xlsx to:
+2015-08-23 14:55:25   'frame','x','y','frame','yfp','cfp','ratio','rawy','rawc','rawr','area','round'
+2015-08-23 14:55:25   Update variable filepath from guiVars.
+2015-08-23 14:55:25   Update variable prefix from guiVars.
+2015-08-23 14:55:25   Update variable suffix from guiVars.
+2015-08-23 14:55:25   Update variable extension from guiVars.
+2015-08-23 14:55:25   Update variable xScale from guiVars.
+2015-08-23 14:55:25   Update variable yScale from guiVars.
+2015-08-23 14:55:25   Update variable xUnit from guiVars.
+2015-08-23 14:55:25   Update variable yUnit from guiVars.
+2015-08-23 14:55:25   Update variable xLabels from guiVars.
+2015-08-23 14:55:25   Update variable yLabels from guiVars.
+2015-08-23 14:55:25   Update variable framesShifted from guiVars.
+2015-08-23 14:55:25   Update variable plotOptions from guiVars.
+2015-08-23 14:55:25   Update variable isLog from guiVars.
+2015-08-23 14:55:25   Update variable iXLabel from guiVars.
+2015-08-23 14:55:25   Update variable iYLabel from guiVars.
+2015-08-23 14:55:25   Update variable isShiftFrame from guiVars.
+2015-08-23 14:55:25   Update variable isSeries from guiVars.
+2015-08-23 14:55:25   Update variable iColor from guiVars.
+2015-08-23 14:55:25   Update variable leftTable from guiVars.
+2015-08-23 14:55:25   Cannot find plot_axes
+2015-08-23 14:55:25   Welcome!
+2015-08-23 14:55:29   Goodbye!
+2015-08-23 14:55:29   Directory does not exist. Log is saved to the program directory.
